@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ptt_system
+Comment=
+Exec='python close_connection.py'
+Icon=/home/japjeet/Downloads/indian-_gfp2AZpH-transformed-removebg-preview.png
+Path=/home/japjeet/Desktop/
+Terminal=true
+StartupNotify=false
